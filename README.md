@@ -1,10 +1,18 @@
-## Hi there 👋
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/privateinvestocat.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://octodex.github.com/images/gangnamtocat.png">
  <img alt="WE CAN DO IT" src="https://octodex.github.com/images/mona-the-rivetertocat.png">
 </picture>
+
+## About Me
+
+Hey I'm Joba. **Learning New things**
+
+| Rank | Languages |
+|-----:|-----------|
+|     1|       C++   |
+|     2|               |
+|     3|               |
 
 <!--
 **simplyjoba/SimplyJoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
