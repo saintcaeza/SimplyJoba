@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey I'm Joba. **Learning New things**
+Hey I'm julius. **Learning New things**
 
 | Rank | Languages |
 |-----:|-----------|
